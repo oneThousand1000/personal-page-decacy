@@ -28,12 +28,7 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
-      {% if author.pixiv %}
-        <li><a href="{{ author.pixiv }}"><i class="fa fa-picture-o" aria-hidden="true"></i> Pixiv</a></li>
-      {% endif %}
-      {% if author.bilibili %}
-        <li><a href="{{ author.bilibili }}"><i class="a fa-thumbs-up" aria-hidden="true"></i> Bilibili</a></li>  
-      {% endif %}
+      
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -120,6 +115,12 @@
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+      {% endif %}
+      {% if author.pixiv %}
+        <li><a href="{{ author.pixiv }}"><i class="fa fa-heart" aria-hidden="true"></i> Pixiv</a></li>
+      {% endif %}
+      {% if author.bilibili %}
+        <li><a href="{{ author.bilibili }}"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Bilibili</a></li>  
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
