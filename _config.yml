@@ -84,12 +84,13 @@ author:
   avatar           : "profile-yiqian.png"
   bio              : "Student of State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
+  pixiv            : "https://www.pixiv.net/users/13883546"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "onethousand@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://onethousandwu.com/"
   bitbucket        :
   codepen          :
   dribbble         :
