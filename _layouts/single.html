@@ -43,7 +43,7 @@ layout: default
         {% endif %}
         
         {% if page.excerpt%}
-        <p class="archive__item-excerpt" itemprop="description">{{ page.excerpt | markdownify }}</p>
+        <p class="archive__item-excerpt" itemprop="description">Authors: {{ page.excerpt | markdownify }}</p>
         {% endif %}
              
         <!-- {% if page.citation and page.paperurl %}

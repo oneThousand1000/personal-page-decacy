@@ -8,7 +8,11 @@ venue: 'SIGGRAPH'
 paperurl: 'paper url is coming soon'
 citation: 'coming soon'
 ---
+
+**Abstract: ** 
+```
 We present a coarse-to-fine method that can edit facial structures in portrait images using a fine classification boundary in the latent space.
+```
 
 [the paper is coming soon.]()
 
