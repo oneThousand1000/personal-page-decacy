@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/coarse-to-fine
+excerpt: 'We present a coarse-to-fine method that can edit facial structures in portrait images using a fine classification boundary in the latent space.'
+date: 2021-04-30
+venue: 'SIGGRAPH'
+paperurl: 'paper url is coming soon'
+citation: 'coming soon'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We present a coarse-to-fine method that can edit facial structures in portrait images using a fine classification boundary in the latent space.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](coming soon)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: coming soon.
