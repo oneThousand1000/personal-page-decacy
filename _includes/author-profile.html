@@ -31,6 +31,9 @@
       {% if author.pixiv %}
         <li><i class="fa fa-picture-o" aria-hidden="true"></i> {{ author.pixiv }}</li>
       {% endif %}
+      {% if author.bilibili %}
+        <li><i class="fa fa-thumbs-up" aria-hidden="true"></i> {{ author.bilibili }}</li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
