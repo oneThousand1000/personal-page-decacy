@@ -53,12 +53,21 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
+      <p><a href="{{ post.citation }}"><u>cite</u></a>  <a href="{{ post.paperurl }}"><u>paperurl</u></a></p>
+    {% elsif post.citation %}
+      <p><a href="{{ post.citation }}"><u>cite</u></a> </p>
+    {% elsif post.paperurl %}
+      <p><a href=" {{ post.paperurl }} "><u>paperurl</u></a></p>
+    {% endif %}
+
+
+    <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
+    {% endif %} -->
 
   </article>
 </div>
