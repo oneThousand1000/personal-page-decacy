@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqian Wu / personal website"
+title                    : "Yiqian Wu / Onethousand Wu"
 title_separator          : "-"
 name                     : &name "Yiqian Wu"
 description              : &description "State Key Lab of CAD&CG, Zhejiang University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiqian Wu"
   avatar           : "profile-yiqian.png"
-  bio              : "Student of State Key Lab of CAD&CG, Zhejiang University"
+  bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
   pixiv            : "https://www.pixiv.net/users/13883546"
   bilibili         : "https://space.bilibili.com/6414209"

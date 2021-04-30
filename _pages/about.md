@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Yiqian Wu"
 excerpt: "About me"
 author_profile: true
