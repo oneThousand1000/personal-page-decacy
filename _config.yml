@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqian Wu"
+title                    : "Yiqian Wu / personal website"
 title_separator          : "-"
 name                     : &name "Yiqian Wu"
 description              : &description "Student of State Key Lab of CAD&CG, Zhejiang University"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "onethousand@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
