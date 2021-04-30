@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**Expecto Patronum！**
-=====
+
 Student @ State Key Lab of CAD&CG, Zhejiang University.
-Research Interest: Artificial Intelligence, Computer Vision, Portrait Editing.
-Supervisor: [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
-Contact: onethousand@zju.edu.cn
+
+**Research Interest:** Artificial Intelligence, Computer Vision, Portrait Editing.
+
+**Address:** Zijingang Campus of Zhejiang University, 866 Yuhangtang Rd, Hangzhou 310058, P.R. China.
+
+**Supervisor:** [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
+
+**Contact:** onethousand@zju.edu.cn
 
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 **Computer Science and Technology.**
+
 **State Key Lab of CAD&CG, Zhejiang University**
+
 **Chu Kochen Honors College, Zhejiang University.**
 
 * B.S. in Zhejiang University, 2017
