@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+**Computer Science and Technology.**
+**State Key Lab of CAD&CG, Zhejiang University**
+**Chu Kochen Honors College, Zhejiang University.**
+
 * B.S. in Zhejiang University, 2017
 * Ph.D in Zhejiang University, 2021 (expected)
 
@@ -26,14 +30,11 @@ Education
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Skills
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence
+* Computer Vision
+* Portrait Editing
 
 Publications
 ======
