@@ -10,6 +10,6 @@ citation: 'coming soon'
 ---
 We present a coarse-to-fine method that can edit facial structures in portrait images using a fine classification boundary in the latent space.
 
-[Download paper here](coming soon)
+[the paper is coming soon.]()
 
 Recommended citation: coming soon.
