@@ -14,6 +14,10 @@ citation: 'coming soon'
 We present a coarse-to-fine method that can edit facial structures in portrait images using a fine classification boundary in the latent space.
 
 
-[the paper is coming soon.]()
+[the paper pdf is coming soon.]()
+
+[dataset](https://github.com/oneThousand1000/coarse-to-fine-chin-editing)
+
+[the code is coming soon.]()
 
 Recommended citation: coming soon.
