@@ -3,8 +3,8 @@ title: "Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent S
 collection: publications
 permalink: /publication/coarse-to-fine
 excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).'
-date: 2021-04-30
-venue: 'SIGGRAPH'
+date: 2021-08-30
+venue: 'ACM Trans. Graph.40, 4, Article 46 (SIGGRAPH)'
 paperurl: 'paper url is coming soon'
 citation: 'coming soon'
 code: 'https://github.com/oneThousand1000/coarse-to-fine-chin-editing'
