@@ -18,6 +18,6 @@ In this paper, we present iOrthoPredictor, a novel system to visually predict te
 
 ![iothopredictor](http://oneThousand1000.github.io/images/publications/iothopredictor.png)
 
-[pdf](https://dl.acm.org/doi/10.1145/3414685.3417771)
+[[pdf]](https://dl.acm.org/doi/10.1145/3414685.3417771)
 
-Recommended citation: [bibtex](http://oneThousand1000.github.io/files/bibtex/iothopredictor.html)
+Recommended citation: [[bibtex]](http://oneThousand1000.github.io/files/bibtex/iothopredictor.html)
