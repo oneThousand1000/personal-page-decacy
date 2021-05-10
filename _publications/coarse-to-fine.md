@@ -7,6 +7,8 @@ date: 2021-04-30
 venue: 'SIGGRAPH'
 paperurl: 'paper url is coming soon'
 citation: 'coming soon'
+code: 'https://github.com/oneThousand1000/coarse-to-fine-chin-editing'
+video: 'coming soon'
 ---
 
 <b>Abstract:</b>

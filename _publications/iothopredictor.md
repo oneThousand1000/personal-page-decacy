@@ -7,6 +7,8 @@ date: 2020-05-30
 venue: 'SIGGRAPH ASIA'
 paperurl: 'https://dl.acm.org/doi/10.1145/3414685.3417771'
 citation: 'http://oneThousand1000.github.io/files/bibtex/iothopredictor.html'
+code: ''
+video: ''
 ---
 
 <b>Abstract:</b>
