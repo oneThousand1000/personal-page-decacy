@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/iothopredictor
 excerpt: 'Lingchen Yang, Zefeng Shi, **Yiqian Wu**, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng.'
 date: 2020-12-30
-venue: 'ACM Trans. Graph.39, 6, Article 216 (**SIGGRAPH ASIA**)'
+venue: 'ACM Trans. Graph.39, 6, Article 216 (SIGGRAPH ASIA)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3414685.3417771'
 citation: 'http://oneThousand1000.github.io/files/bibtex/iothopredictor.html'
 code: ''
