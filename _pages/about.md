@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-Senior student @ State Key Lab of CAD&CG, Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).
+Senior student @ State Key Lab of CAD&CG, Zhejiang University.
+
+Advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).
 
 **Research Interest:** Artificial Intelligence, Computer Vision, Portrait Editing.
 
