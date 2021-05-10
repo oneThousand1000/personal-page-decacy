@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Senior student @ State Key Lab of CAD&CG, Zhejiang University.
+
 Education
 ======
 **Computer Science and Technology.**
@@ -19,6 +21,7 @@ Education
 
 * B.S. in Zhejiang University, 2017
 * Ph.D in Zhejiang University, 2021 (expected)
+  * Advisor: Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
 <!-- Work experience
 ======
@@ -37,7 +40,7 @@ Interests
 * Artificial Intelligence
 * Computer Vision
 * Portrait Editing
-* computer animation
+* Computer Animation
 
 Publications
 ======
