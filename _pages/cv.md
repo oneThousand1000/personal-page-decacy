@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Senior student @ State Key Lab of CAD&CG, Zhejiang University.
+I am a senior student @ State Key Lab of CAD&CG, Zhejiang University.
 
 Education
 ======
@@ -44,7 +44,7 @@ Interests
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
