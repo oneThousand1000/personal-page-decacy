@@ -37,6 +37,7 @@ Interests
 * Artificial Intelligence
 * Computer Vision
 * Portrait Editing
+* computer animation
 
 Publications
 ======

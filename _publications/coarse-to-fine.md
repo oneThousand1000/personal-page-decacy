@@ -2,7 +2,7 @@
 title: "Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications"
 collection: publications
 permalink: /publication/coarse-to-fine
-excerpt: '**Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin.'
+excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).'
 date: 2021-04-30
 venue: 'SIGGRAPH'
 paperurl: 'paper url is coming soon'
