@@ -9,6 +9,8 @@ paperurl: 'paper url is coming soon'
 citation: 'coming soon'
 code: 'https://github.com/oneThousand1000/coarse-to-fine-chin-editing'
 video: 'coming soon'
+supplementary_materials: 'https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing'
+project_page: 'http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/coarse2fine.png)
 

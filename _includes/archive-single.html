@@ -62,14 +62,36 @@
     {% if site.read_more == 'enabled' %}
     <p><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></p>
     {% endif %} -->
-    
-    {% if post.citation and post.paperurl %}
+    <p>
+      {% if post.citation%}
+      [<a href="{{ post.citation }}">cite</a>] 
+      {% endif %}
+      {% if post.paperurl%}
+      [<a href="{{ post.paperurl }}">paperurl</a>] 
+      {% endif %}
+      {% if post.video%}
+      [<a href="{{ post.video }}">video</a>] 
+      {% endif %}
+      {% if post.code%}
+      [<a href="{{ post.code }}">code</a>] 
+      {% endif %}
+      {% if post.supplementary_materials%}
+      [<a href="{{ post.supplementary_materials }}">supplementary materials</a>] 
+      {% endif %}
+      {% if post.project_page%}
+      [<a href="{{ post.project_page }}">project page</a>] 
+      {% endif %}
+
+    </p>
+
+
+    <!-- {% if post.citation and post.paperurl %}
       <p>[<a href="{{ post.citation }}">cite</a>] [<a href="{{ post.paperurl }}">paperurl</a>]</p>
     {% elsif post.citation %}
       <p>[<a href="{{ post.citation }}">cite</a>] </p>
     {% elsif post.paperurl %}
       <p>[<a href=" {{ post.paperurl }} ">paperurl</a>]</p>
-    {% endif %}
+    {% endif %} -->
 
 
     <!-- {% if post.citation and post.paperurl %}
