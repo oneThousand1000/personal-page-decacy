@@ -5,8 +5,8 @@ permalink: /publication/coarse-to-fine
 excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).'
 date: 2021-08-30
 venue: 'ACM Transactions on Graphics (Proc. of Siggraph 2021), 40(4): Article 46.'
-paperurl: 'paper url is coming soon'
-citation: 'coming soon'
+paperurl: 'https://drive.google.com/file/d/14w9j2w8EoeH7ikD9aljT7JfulPPsvky4/view?usp=sharing'
+citation: 'http://oneThousand1000.github.io/files/bibtex/coarse2fine.html'
 code: 'https://github.com/oneThousand1000/coarse-to-fine-chin-editing'
 video: 'coming soon'
 supplementary_materials: 'https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing'
@@ -32,4 +32,7 @@ Facial structure editing of portrait images is challenging given the facial vari
 
 [[dataset]](https://github.com/oneThousand1000/coarse-to-fine-chin-editing)
 
-Recommended citation: Yiqian Wu, Yong-Liang Yang, Qinjie Xiao, and Xiaogang Jin. 2021. Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Clas-sifications.ACM Trans. Graph.40, 4, Article 46 (August 2021), 13 pages. https://doi.org/10.1145/3450626.3459
+Recommended citation: 
+```
+Yiqian Wu, Yong-Liang Yang, Qinjie Xiao, and Xiaogang Jin. 2021. Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Clas-sifications.ACM Trans. Graph.40, 4, Article 46 (August 2021), 13 pages. https://doi.org/10.1145/3450626.3459
+```
