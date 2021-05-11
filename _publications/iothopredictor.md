@@ -7,10 +7,7 @@ date: 2020-12-30
 venue: 'ACM Transactions on Graphics (Proc. of Siggraph Asia 2020), 39(6), Article 216.'
 paperurl: 'https://dl.acm.org/doi/10.1145/3414685.3417771'
 citation: 'http://oneThousand1000.github.io/files/bibtex/iothopredictor.html'
-code: ''
-video: ''
-project_page: ''
-supplementary_materials: ''
+
 ---
 ![iothopredictor](http://oneThousand1000.github.io/images/publications/iothopredictor.png)
 
