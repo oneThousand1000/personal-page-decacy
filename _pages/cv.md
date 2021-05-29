@@ -19,8 +19,8 @@ Education
 
 **Chu Kochen Honors College, Zhejiang University.**
 
-* B.S. in Zhejiang University, 2017
-* Ph.D in Zhejiang University, 2021 (expected)
+* B.S. in Zhejiang University, 2017-2021
+* Ph.D in Zhejiang University, 2021-2026 (expected)
   * Advisor: Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
 <!-- Work experience
