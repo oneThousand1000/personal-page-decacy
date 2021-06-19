@@ -84,7 +84,7 @@ author:
   avatar           : "profile-yiqian.png"
   bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
-  pixiv            : "https://www.pixiv.net/users/13883546"
+  pixiv            : #"https://www.pixiv.net/users/13883546"
   bilibili         : "https://space.bilibili.com/6414209"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
