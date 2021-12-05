@@ -18,5 +18,5 @@ I am a Ph.D. student @ State Key Lab of CAD&CG, Zhejiang University, advised by 
 **Contact:** onethousand@zju.edu.cn
 
 
-![coarse2fine](http://oneThousand1000.github.io/images/2021-12-05-0.png)
+<img src=http://oneThousand1000.github.io/images/2021-12-05-0.png width=60% />
 
