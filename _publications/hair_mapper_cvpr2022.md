@@ -18,7 +18,7 @@ project_page: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm'
 
 
 
-[[paper (4.21MB)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf] )]
+[[paper (4.21MB)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf )]
 
 [[paper-high resolution (25.8MB)](https://drive.google.com/file/d/18DDvis0ABiN0ibnAuZePLrN5SjhIeuRR/view?usp=sharing )]
 
