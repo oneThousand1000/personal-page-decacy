@@ -5,12 +5,12 @@ permalink: /publication/hair_mapper_cvpr2022
 excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/),[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).'
 date: 2022-03-02
 venue: '2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
-paperurl: 'coming soon'
+paperurl: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf'
 citation: 'coming soon'
 code: 'coming soon'
-video: 'coming soon'
-supplementary_materials: 'coming soon'
-project_page: 'coming soon'
+video: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4'
+supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf'
+project_page: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm'
 ---
 ![hairmapper](http://oneThousand1000.github.io/images/publications/hairmapper.png)
 
@@ -18,15 +18,19 @@ project_page: 'coming soon'
 
 
 
-[[paper](coming soon] )]
+[[paper (4.21MB)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf] )]
 
-[[demo](coming soon)]  
+[[paper-high resolution (25.8MB)](https://drive.google.com/file/d/18DDvis0ABiN0ibnAuZePLrN5SjhIeuRR/view?usp=sharing )]
+
+[[demo (46.7MB)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4)]  
 
 [[code](coming soon)]
 
-[[supplementary materials](coming soon)]
+[[suppl (4.42M)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf)]
 
-[[project page](coming soon)]
+[[suppl-high resolution (16.4M)](https://drive.google.com/file/d/1_hXrqicomEi79Tm52CKgNamezgWlykDh/view?usp=sharing)]
 
-[[dataset]](coming soon)
+[[project page](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)]
+
+[[dataset]](https://github.com/oneThousand1000/non-hair-FFHQ)
 
