@@ -7,7 +7,7 @@ date: 2022-03-02
 venue: '2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf'
 citation: 'coming soon'
-code: 'coming soon'
+code: 'https://github.com/oneThousand1000/HairMapper'
 video: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4'
 supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf'
 project_page: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm'
@@ -24,7 +24,7 @@ project_page: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm'
 
 [[demo (46.7MB)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4)]  
 
-[[code](coming soon)]
+[[code](https://github.com/oneThousand1000/HairMapper)]
 
 [[suppl (4.42M)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf)]
 
