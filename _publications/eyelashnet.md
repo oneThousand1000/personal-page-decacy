@@ -6,7 +6,7 @@ excerpt: 'Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang,
 date: 2021-12-30
 venue: 'ACM Trans. Graph., Vol. 40, No. 6, Article 217. Publication date: December 2021.'
 paperurl: 'http://www.cad.zju.edu.cn/home/jin/siga2021/EyelashNet.pdf'
-citation: ''
+citation: 'http://oneThousand1000.github.io/files/bibtex/EyelashNet.html'
 code: 'Coming Soon'
 video: 'http://www.cad.zju.edu.cn/home/jin/siga2021/demo.mp4'
 supplementary_materials: ''

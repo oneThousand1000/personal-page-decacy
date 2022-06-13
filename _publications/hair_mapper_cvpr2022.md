@@ -6,14 +6,7 @@ excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/),[Xiaog
 date: 2022-03-02
 venue: '2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf'
-citation: '@InProceedings{Wu_2022_CVPR,
-    author    = {Wu, Yiqian and Yang, Yong-Liang and Jin, Xiaogang},
-    title     = {HairMapper: Removing Hair From Portraits Using GANs},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2022},
-    pages     = {4227-4236}
-}'
+citation: 'http://oneThousand1000.github.io/files/bibtex/hairmapper.html'
 code: 'https://github.com/oneThousand1000/HairMapper'
 video: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4'
 supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf'
