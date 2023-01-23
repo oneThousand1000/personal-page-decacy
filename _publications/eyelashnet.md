@@ -11,6 +11,7 @@ code: 'Coming Soon'
 video: 'http://www.cad.zju.edu.cn/home/jin/siga2021/demo.mp4'
 supplementary_materials: ''
 project_page: 'http://www.cad.zju.edu.cn/home/jin/siga2021/siga2021.htm'
+year: '2021'
 ---
 
 <b>Abstract:</b>

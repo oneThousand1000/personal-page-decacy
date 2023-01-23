@@ -11,6 +11,7 @@ code: 'https://github.com/oneThousand1000/HairMapper'
 video: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4'
 supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf'
 project_page: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm'
+year: '2022'
 ---
 ![hairmapper](http://oneThousand1000.github.io/images/publications/hairmapper.png)
 
