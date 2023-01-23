@@ -19,9 +19,9 @@ I am a Ph.D. student @ State Key Lab of CAD&CG, Zhejiang University, advised by 
 
 
 
-## Publications
+# Publications
 
-### 2022
+## 2022
 
 1. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
 
@@ -29,7 +29,7 @@ I am a Ph.D. student @ State Key Lab of CAD&CG, Zhejiang University, advised by 
 
    **Yiqian Wu**, Yongliang Yang, Xiaogang Jin.
 
-### 2021
+## 2021
 
 1. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
 
@@ -43,7 +43,7 @@ I am a Ph.D. student @ State Key Lab of CAD&CG, Zhejiang University, advised by 
 
    Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
 
-### 2020
+## 2020
 
 1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment](https://onethousandwu.com/publication/iothopredictor)
 
