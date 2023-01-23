@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## <h2>2022</h2>
+## 2022
 
 {% for post in site.publications reversed %}
   {% if post.year == '2022' %}
@@ -19,7 +19,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## <h2>2021</h2>
+## 2021
 
 {% for post in site.publications reversed %}
   {% if post.year == '2021' %}
@@ -27,7 +27,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## <h2>2020</h2>
+## 2020
 
 {% for post in site.publications reversed %}
   {% if post.year == '2020' %}
