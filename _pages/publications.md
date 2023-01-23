@@ -11,6 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
+## 2022
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year == 2022 %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2021
+
+{% for post in site.publications reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year == 2021 %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## 2020
+
+{% for post in site.publications reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year == 2020 %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
