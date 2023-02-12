@@ -9,19 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-I am a senior student @ State Key Lab of CAD&CG, Zhejiang University.
+I am a Ph.D. student @ State Key Lab of CAD&CG, Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).
 
 Education
 ======
-**Computer Science and Technology.**
 
-**State Key Lab of CAD&CG, Zhejiang University**
+### 2017-2021
 
-**Chu Kochen Honors College, Zhejiang University.**
+- Chu Kochen Honors College, Zhejiang University.
+- The College of Computer Science and Technology, Zhejiang University.
+- I obtained my bachelor degree in Computer Science and Technology from Zhejiang University in 2021.
 
-* B.S. in Zhejiang University, 2017-2021
-* Ph.D in Zhejiang University, 2021-2026 (expected)
-  * Advisor: Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
+### 2021-2026 (expected)
+
+Ph.D in State Key Lab of CAD&CG at Zhejiang University.
+
+Advisor: Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
 <!-- Work experience
 ======
@@ -47,19 +50,19 @@ Publications
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
