@@ -2,7 +2,7 @@
 title: "LPFF: A Portrait Dataset for Face Generators Across Large Poses"
 collection: publications
 permalink: /publication/lpff-dataset
-excerpt: '[**Yiqian Wu**](https://onethousandwu.com/), Jing Zhang, [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)'
+excerpt: '**Yiqian Wu**, Jing Zhang, [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)'
 date: 2023-08-30
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2303.14407'

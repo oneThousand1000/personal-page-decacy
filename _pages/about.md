@@ -23,6 +23,14 @@ I'm Yiqian Wu, a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG
 
 # Publications
 
+## 2023
+
+1. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
+
+   Arxiv, 2023
+
+   Yiqian Wu, Jing Zhang, Hongbo Fu, Xiaogang Jin.
+
 ## 2022
 
 1. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
