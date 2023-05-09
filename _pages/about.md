@@ -29,7 +29,15 @@ I'm Yiqian Wu, a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG
 
    Arxiv, 2023
 
-   Yiqian Wu, Jing Zhang, Hongbo Fu, Xiaogang Jin.
+   **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin.
+
+2. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mprnn)
+
+   Proceedings of Siggraph'2023, Los Angeles, 6-10 August, 2023.
+
+   Jinkai Hu, Chengzhong Yu, Hongli Liu, [Ling-qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html), **Yiqian Wu**, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)
+
+   
 
 ## 2022
 
