@@ -1,7 +1,7 @@
 ---
 title: "Deep Real-time Volumetric Rendering Using Multi-feature Fusion"
 collection: publications
-permalink: /publication/mprnn
+permalink: /publication/mrpnn
 excerpt: 'Jinkai Hu, Chengzhong Yu, Hongli Liu, [Ling-qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html), **Yiqian Wu**, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)'
 date: 2023-08-30
 venue: 'Proceedings of Siggraph'2023, Los Angeles, 6-10 August, 2023.'
@@ -13,7 +13,7 @@ supplementary_materials: 'coming soon'
 project_page: 'coming soon'
 year: '2023'
 ---
-![mprnn](http://oneThousand1000.github.io/images/publications/mprnn.png)
+![mrpnn](http://oneThousand1000.github.io/images/publications/mrpnn.png)
 
 <b>Abstract:</b>
 

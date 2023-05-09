@@ -31,7 +31,7 @@ I'm Yiqian Wu, a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG
 
    **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin.
 
-2. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mprnn)
+2. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 
    Proceedings of Siggraph'2023, Los Angeles, 6-10 August, 2023.
 
