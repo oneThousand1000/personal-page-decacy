@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Yiqian Wu, a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
+I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
 
 **Research Interest:** Computer Vision, Portrait Editing, Computer Animation.
 
@@ -35,7 +35,7 @@ I'm Yiqian Wu, a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG
 
    Proceedings of Siggraph'2023, Los Angeles, 6-10 August, 2023.
 
-   Jinkai Hu, Chengzhong Yu, Hongli Liu, [Ling-qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html), **Yiqian Wu**, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)
+   Jinkai Hu, Chengzhong Yu, Hongli Liu, Ling-qi Yan, **Yiqian Wu**, Xiaogang Jin.
 
    
 
