@@ -7,10 +7,10 @@ date: 2023-08-30
 venue: "Proceedings of Siggraph'2023, Los Angeles, 6-10 August."
 paperurl: 'https://sites.cs.ucsb.edu/~lingqi/publications/paper_mrpnn.pdf'
 citation: 'coming soon'
-code: 'coming soon'
-video: 'coming soon'
-supplementary_materials: 'coming soon'
-project_page: 'coming soon'
+code: 'https://github.com/What-a-stupid-username/MRPNN'
+video: 'http://www.cad.zju.edu.cn/home/jin/sig20231/demo.mp4'
+supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/sig20231/Supplementary.pdf'
+project_page: 'http://www.cad.zju.edu.cn/home/jin/sig20231/SigMRPNN2023.htm'
 year: '2023'
 ---
 ![mrpnn](http://oneThousand1000.github.io/images/publications/mrpnn.png)
@@ -21,11 +21,11 @@ We present Multi-feature Radiance-Predicting Neural Networks (MRPNN), a practica
 
 [Paper](https://sites.cs.ucsb.edu/~lingqi/publications/paper_mrpnn.pdf) 
 
-[Video](coming soon) 
+[Video](http://www.cad.zju.edu.cn/home/jin/sig20231/demo.mp4) 
 
-[Suppl](coming soon) 
+[Suppl](http://www.cad.zju.edu.cn/home/jin/sig20231/Supplementary.pdf) 
 
-[Project Page](coming soon)
+[Project Page]([Deep Real-time Volumetric Rendering Using Multi-feature Fusion (zju.edu.cn)](http://www.cad.zju.edu.cn/home/jin/sig20231/SigMRPNN2023.htm))
 
 
 
