@@ -25,7 +25,7 @@ We present Multi-feature Radiance-Predicting Neural Networks (MRPNN), a practica
 
 [Suppl](http://www.cad.zju.edu.cn/home/jin/sig20231/Supplementary.pdf) 
 
-[Project Page]([Deep Real-time Volumetric Rendering Using Multi-feature Fusion (zju.edu.cn)](http://www.cad.zju.edu.cn/home/jin/sig20231/SigMRPNN2023.htm))
+[Project Page](http://www.cad.zju.edu.cn/home/jin/sig20231/SigMRPNN2023.htm)
 
 
 
