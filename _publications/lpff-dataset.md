@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/lpff-dataset
 excerpt: '**Yiqian Wu**, Jing Zhang, [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)'
 date: 2023-08-30
-venue: 'Arxiv'
+venue: '2023 IEEE/CVF International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/abs/2303.14407'
 citation: 'http://oneThousand1000.github.io/files/bibtex/lpff.html'
 code: 'https://github.com/oneThousand1000/LPFF-dataset'

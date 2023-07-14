@@ -27,7 +27,7 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
 1. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
 
-   Arxiv, 2023
+   2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
    **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin.
 
@@ -43,7 +43,7 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
 1. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
 
-   2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+   2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
 
    **Yiqian Wu**, Yongliang Yang, Xiaogang Jin.
 
