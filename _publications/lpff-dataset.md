@@ -8,9 +8,9 @@ venue: '2023 IEEE/CVF International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/abs/2303.14407'
 citation: 'http://oneThousand1000.github.io/files/bibtex/lpff.html'
 code: 'https://github.com/oneThousand1000/LPFF-dataset'
-video: 'coming soon'
+video: 'http://www.cad.zju.edu.cn/home/jin/iccv2023/demo.mp4'
 supplementary_materials: 'https://drive.google.com/file/d/1Xktg7oqMMNN9hqGYva3BBTJoux17y2SR/view?usp=sharing'
-project_page: 'https://github.com/oneThousand1000/LPFF-dataset'
+project_page: 'http://www.cad.zju.edu.cn/home/jin/iccv2023/iccv2023.htm'
 year: '2023'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/lpff.png)
@@ -25,11 +25,11 @@ In this paper, we present **LPFF**, a large-pose Flickr face dataset comprised o
 
 [Paper](https://arxiv.org/abs/2303.14407) 
 
-[Video](coming soon) 
+[Video](http://www.cad.zju.edu.cn/home/jin/iccv2023/demo.mp4) 
 
 [Suppl](https://drive.google.com/file/d/1Xktg7oqMMNN9hqGYva3BBTJoux17y2SR/view?usp=sharing) 
 
-[Project Page](coming soon)
+[Project Page](http://www.cad.zju.edu.cn/home/jin/iccv2023/iccv2023.htm)
 
 
 
