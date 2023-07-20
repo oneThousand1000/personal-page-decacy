@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/eyelashnet
 excerpt: 'Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Xinwei Jiang, [Yongliang Yang](https://www.yongliangyang.net/),  [Tianjia Shao](http://tianjiashao.com/), [Kun Zhou](http://kunzhou.net/).'
 date: 2021-12-30
-venue: 'ACM Trans. Graph., Vol. 40, No. 6, Article 217. Publication date: December 2021.'
+venue: 'ACM Trans. Graph. 40, 6, Article 217 (December 2021)'
 paperurl: 'http://www.cad.zju.edu.cn/home/jin/siga2021/EyelashNet.pdf'
 citation: 'http://oneThousand1000.github.io/files/bibtex/EyelashNet.html'
 code: 'Coming Soon'

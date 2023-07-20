@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/mrpnn
 excerpt: 'Jinkai Hu, Chengzhong Yu, Hongli Liu, [Ling-qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html), **Yiqian Wu**, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)'
 date: 2023-08-30
-venue: "Proceedings of Siggraph'2023, Los Angeles, 6-10 August."
+venue: "ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Association for Computing Machinery, New York, NY, USA, Article 61, 1–10."
 paperurl: 'https://sites.cs.ucsb.edu/~lingqi/publications/paper_mrpnn.pdf'
 citation: 'coming soon'
 code: 'https://github.com/What-a-stupid-username/MRPNN'

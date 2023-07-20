@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/coarse-to-fine
 excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/).'
 date: 2021-08-30
-venue: 'ACM Transactions on Graphics (Proc. of Siggraph 2021), 40(4): Article 46.'
+venue: 'ACM Trans. Graph. 40, 4, Article 46 (August 2021)'
 paperurl: 'https://drive.google.com/file/d/14w9j2w8EoeH7ikD9aljT7JfulPPsvky4/view?usp=sharing'
 citation: 'http://oneThousand1000.github.io/files/bibtex/coarse2fine.html'
 code: 'https://github.com/oneThousand1000/Facial-Structure-Editing-of-Portrait-Images-via-Latent-Space-Classifications'

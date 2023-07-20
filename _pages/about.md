@@ -33,7 +33,7 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
 2. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 
-   Proceedings of Siggraph'2023, Los Angeles, 6-10 August, 2023.
+   ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Association for Computing Machinery, New York, NY, USA, Article 61, 1–10.
 
    Jinkai Hu, Chengzhong Yu, Hongli Liu, Ling-qi Yan, **Yiqian Wu**, Xiaogang Jin.
 
@@ -51,20 +51,12 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
 1. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
 
-   ACM Transactions on Graphics (Proc. of Siggraph 2021), 40(4): Article 46., 2021
+   ACM Trans. Graph. 40, 4, Article 46 (August 2021), 13 pages.
 
    **Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin.
 
 2. [EyelashNet: A Dataset and A Baseline Method for Eyelash Matting](https://onethousandwu.com/publication/eyelashnet)
 
-   ACM Trans. Graph., Vol. 40, No. 6, Article 217. Publication date: December 2021., 2021
+   ACM Trans. Graph. 40, 6, Article 217 (December 2021), 17 pages.
 
    Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
-
-## 2020
-
-1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment](https://onethousandwu.com/publication/iothopredictor)
-
-   ACM Transactions on Graphics (Proc. of Siggraph Asia 2020), 39(6), Article 216., 2020
-
-   Lingchen Yang, Zefeng Shi, **Yiqian Wu**, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng.
