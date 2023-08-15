@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## :star2: 2023
+## 🌟 2023
 
 {% for post in site.publications reversed %}
   {% if post.year == '2023' %}
@@ -21,7 +21,7 @@ author_profile: true
 
 
 
-## :dizzy: 2022
+## 🪐 2022
 
 {% for post in site.publications reversed %}
   {% if post.year == '2022' %}
@@ -41,7 +41,7 @@ author_profile: true
 
 
 
-## :sparkling_heart: 2020
+## 🎀 2020
 
 {% for post in site.publications reversed %}
   {% if post.year == '2020' %}
