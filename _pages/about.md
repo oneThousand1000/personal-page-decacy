@@ -62,3 +62,7 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
    ACM Trans. Graph. 40, 6, Article 217 (December 2021), 17 pages.
 
    Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
+
+## 2020
+
+1. 
