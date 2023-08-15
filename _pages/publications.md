@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+
+
+
+
 # 🌟 2023
 
 {% for post in site.publications reversed %}
@@ -18,6 +22,8 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+
 
 
 
@@ -31,6 +37,8 @@ author_profile: true
 
 
 
+
+
 # ✨ 2021
 
 {% for post in site.publications reversed %}
@@ -38,6 +46,8 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+
 
 
 
