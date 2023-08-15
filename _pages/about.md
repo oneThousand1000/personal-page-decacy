@@ -49,6 +49,8 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
    **Yiqian Wu**, Yongliang Yang, Xiaogang Jin.
 
+
+
 ## 2021
 
 1. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
@@ -63,6 +65,12 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
    Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
 
+
+
 ## 2020
 
-1. 
+1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment - Yiqian Wu / Onethousand Wu](https://onethousandwu.com/publication/iothopredictor)
+
+   ACM Transactions on Graphics (Proc. of Siggraph Asia 2020), 39(6), Article 216., 2020
+
+   Lingchen Yang, Zefeng Shi, **Yiqian Wu**, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng.
