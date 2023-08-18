@@ -69,7 +69,7 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
 ## 2020
 
-1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment - Yiqian Wu / Onethousand Wu](https://onethousandwu.com/publication/iothopredictor)
+1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment](https://onethousandwu.com/publication/iothopredictor)
 
    ACM Transactions on Graphics (Proc. of Siggraph Asia 2020), 39(6), Article 216., 2020
 
