@@ -27,13 +27,19 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
 ## 2023
 
-1. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
+1. [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
+
+   Preprint
+
+   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
+
+2. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
 
    2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
    **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin.
 
-2. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
+3. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 
    ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Association for Computing Machinery, New York, NY, USA, Article 61, 1–10.
 
