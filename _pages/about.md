@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
+I'm Yiqian Wu (吴奕谦), a third-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
 
 **Research Interest:** Computer Vision, Portrait Editing, Computer Animation.
 
@@ -31,7 +31,7 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 
    Preprint
 
-   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
+   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin
 
 2. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
 
