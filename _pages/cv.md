@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+**👉 Download my resume [here](https://github.com/oneThousand1000/oneThousand1000.github.io/blob/master/files/Yiqian_Wu_cv_2023.pdf)!**
+
+
+
 Education
 ======
 
