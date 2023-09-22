@@ -106,6 +106,8 @@ Sep. 2017 - Jun. 2021
 # Advisor
 
 Prof. Xiaogang Jin
+
 Ph. D, Professor, at State Key Lab of CAD&CG, Zhejiang University, Hangzhou 310058, P. R. China
+
 (+86) 571-88206681  jin@cad.zju.edu.cn
 
