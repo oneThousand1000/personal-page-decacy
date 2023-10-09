@@ -5,7 +5,7 @@ permalink: /publication/lpff-dataset
 excerpt: '**Yiqian Wu**, Jing Zhang, [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)'
 date: 2023-08-30
 venue: '2023 IEEE/CVF International Conference on Computer Vision (ICCV)'
-paperurl: 'https://arxiv.org/abs/2303.14407'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2023/html/Wu_LPFF_A_Portrait_Dataset_for_Face_Generators_Across_Large_Poses_ICCV_2023_paper.html'
 citation: 'http://oneThousand1000.github.io/files/bibtex/lpff.html'
 code: 'https://github.com/oneThousand1000/LPFF-dataset'
 video: 'http://www.cad.zju.edu.cn/home/jin/iccv2023/demo.mp4'
@@ -23,7 +23,7 @@ In this paper, we present **LPFF**, a large-pose Flickr face dataset comprised o
 
 
 
-[Paper](https://arxiv.org/abs/2303.14407) 
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_LPFF_A_Portrait_Dataset_for_Face_Generators_Across_Large_Poses_ICCV_2023_paper.html) 
 
 [Video](http://www.cad.zju.edu.cn/home/jin/iccv2023/demo.mp4) 
 
