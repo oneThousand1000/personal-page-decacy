@@ -39,7 +39,13 @@ I'm Yiqian Wu (吴奕谦), a third-year (2021-now) Ph.D. student in State Key La
 
    **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin.
 
-3. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
+3. [Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning](https://onethousandwu.com/publication/enhancing_the_authenticity_of_rendered_portraits)
+
+   Preprint
+
+   Luyuan Wang*, **Yiqian Wu\*** (\*Equal Contribution), Yongliang Yang, Chen Liu, Xiaogang Jin
+
+4. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 
    ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Association for Computing Machinery, New York, NY, USA, Article 61, 1–10.
 

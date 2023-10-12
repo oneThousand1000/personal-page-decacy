@@ -35,12 +35,12 @@ In this paper, we present **LPFF**, a large-pose Flickr face dataset comprised o
 
 Recommended citation: 
 ```
-@misc{wu2023lpff,
-      title={LPFF: A Portrait Dataset for Face Generators Across Large Poses}, 
-      author={Yiqian Wu and Jing Zhang and Hongbo Fu and Xiaogang Jin},
-      year={2023},
-      eprint={2303.14407},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Wu_2023_ICCV,
+    author    = {Wu, Yiqian and Zhang, Jing and Fu, Hongbo and Jin, Xiaogang},
+    title     = {LPFF: A Portrait Dataset for Face Generators Across Large Poses},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {20327-20337}
 }
 ```
