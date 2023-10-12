@@ -12,6 +12,7 @@ video: 'coming soon'
 supplementary_materials: 'coming soon'
 project_page: 'coming soon'
 year: '2023'
+first_author: 'no'
 ---
 ![enhancing_the_authenticity_of_rendered_portraits](http://oneThousand1000.github.io/images/publications/enhancing_the_authenticity_of_rendered_portraits.png)
 

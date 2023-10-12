@@ -12,6 +12,7 @@ video: 'coming soon'
 supplementary_materials: 'https://drive.google.com/file/d/16aNE5USZ0U32bgGJS1G5xWrY0oIMTfre/view?usp=sharing'
 project_page: 'https://github.com/oneThousand1000/3DPortraitGAN'
 year: '2023'
+first_author: 'yes'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/3DPortraitGAN.png)
 

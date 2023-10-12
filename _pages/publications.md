@@ -18,19 +18,29 @@ author_profile: true
 ## ----------------- 🌟 2023 -----------------
 
 {% for post in site.publications reversed %}
-  {% if post.year == '2023' %}
+  {% if post.year == '2023' and post.first_author == 'yes' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2023' and post.first_author == 'no' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 
 
-
-
 ## ----------------- 🪐 2022 -----------------
 
 {% for post in site.publications reversed %}
-  {% if post.year == '2022' %}
+  {% if post.year == '2022' and post.first_author == 'yes' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2022' and post.first_author == 'no' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -42,10 +52,18 @@ author_profile: true
 ## ----------------- ✨ 2021 -----------------
 
 {% for post in site.publications reversed %}
-  {% if post.year == '2021' %}
+  {% if post.year == '2021' and post.first_author == 'yes' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2021' and post.first_author == 'no' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
 
 
 
@@ -54,7 +72,14 @@ author_profile: true
 ## ----------------- 🎀 2020 -----------------
 
 {% for post in site.publications reversed %}
-  {% if post.year == '2020' %}
+  {% if post.year == '2020' and post.first_author == 'yes' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2020' and post.first_author == 'no' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
