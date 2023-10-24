@@ -49,7 +49,7 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110658.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1qG4y1M7cJ"> 2023年第一幅摸鱼.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110711.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1s24y1Y759"> 2023年CC98论坛新年红包封面.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110813.png"><div align="center"> <a> 秋日来信.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110826.png"><div align="center"> <a> 2023年CC98论坛秋季头图.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110826.png"><div align="center"> <a> CC98论坛秋季头图.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110836.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1kV4y1s7fD"> Hermione.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-111022.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1E44y1s7rt"> 2022年CC98论坛新年红包封面.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-111913.png"><div align="center"> <a> Pixels.</a></div></div> 
@@ -57,19 +57,21 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-112215.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1V64y1Y76y"> 2021年CC98纳新宣传图.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-112223.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1964y1275X"> 2021年半夏音乐节喷绘.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113207.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1TA411T7Wm"> 是春天的樱桃～</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208(1).png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其一).</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208(2).png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其二).</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其三).</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113207(1).png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/27.jpg"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/8.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/9.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/20.jpg"><div align="center"> <a> No title here.</a></div></div>
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/77033753_p0.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83251075_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV16V411B7LE"> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83762302_p0.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83878769_p1.png"><div align="center"> <a href="https://www.bilibili.com/video/BV11f4y1975o"> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/84759268_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1fz4y1Z7ev"> No title here.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208(1).png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2021年CC98论坛新年红包封面(其一).</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208(2).png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2021年CC98论坛新年红包封面(其二).</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2021年CC98论坛新年红包封面(其三).</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113207(1).png"><div align="center"> <a> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/27.jpg"><div align="center"> <a> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/8.png"><div align="center"> <a> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/9.png"><div align="center"> <a> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/20.jpg"><div align="center"> <a> None.</a></div></div>
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/77033753_p0.png"><div align="center"> <a> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83251075_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV16V411B7LE"> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83762302_p0.png"><div align="center"> <a> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83878769_p1.png"><div align="center"> <a href="https://www.bilibili.com/video/BV11f4y1975o"> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/84759268_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1fz4y1Z7ev"> None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/85257917_p0.jpg"><div align="center"> <a> 樱桃和雪球君.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83367422_p1.png"><div align="center"> <a> None.</a></div></div> 
 
 
 </div>
