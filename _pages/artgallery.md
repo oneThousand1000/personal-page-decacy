@@ -66,10 +66,10 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/9.png"><div align="center"> <a> No title here.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/20.jpg"><div align="center"> <a> No title here.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/77033753_p0.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83251075_p0.png"><div align="center"> <a> No title here.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83251075_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV16V411B7LE"> No title here.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83762302_p0.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83878769_p1.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/84759268_p0.png"><div align="center"> <a> No title here.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83878769_p1.png"><div align="center"> <a href="https://www.bilibili.com/video/BV11f4y1975o"> No title here.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/84759268_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1fz4y1Z7ev"> No title here.</a></div></div> 
 
 
 </div>
