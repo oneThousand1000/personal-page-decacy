@@ -59,12 +59,11 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208(1).png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其一).</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208(2).png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其二).</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其三).</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113208.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Wv4y1Z7aA"> 2023年CC98论坛新年红包封面(其三).</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-113207(1).png"><div align="center"> <a> No title here.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/27.jpg"><div align="center"> <a> No title here.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/8.png"><div align="center"> <a> No title here.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/9.png"><div align="center"> <a> No title here.</a></div></div> 
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/20.png"><div align="center"> <a> No title here.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/20.jpg"><div align="center"> <a> No title here.</a></div></div> 
 
 
 </div>
