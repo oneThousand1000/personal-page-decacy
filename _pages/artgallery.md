@@ -41,6 +41,7 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
 
 
 <div class="blog_photo_album_grid">
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-02.png"><div align="center"> <a> [Nov 02, 2023] Allow me to gently enter into that good night.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-1.png"><div align="center"> <a> [Oct 21, 2023] Dream.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110630.jpg"><div align="center"> <a href="https://www.bilibili.com/video/BV1qN4y1y78a"> [Oct 13, 2023] I'll ask you to fly away with me.</a> </div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-10-15-110748.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1jG411d7vw"> [Aug 27, 2023] To the moon.</a> </div></div>
@@ -75,7 +76,7 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2020-09-13.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1UK411K7j9"> [Sep 18, 2020] None.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83878769_p1.png"><div align="center"> <a href="https://www.bilibili.com/video/BV11f4y1975o"> [Aug 23, 2020] None.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83762302_p0.png"><div align="center"> <a> [Aug 18, 2020] None.</a></div></div>
-  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83367422_p1.png"><div align="center"> <a> [Aug 01, 2020] None.</a></div></div> 
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83367422_p1.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1Q54y1S7YR"> [Aug 01, 2020] None.</a></div></div> 
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2020-04-08.jpg"><div align="center"> <a> [Apr 08, 2020] None.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/83251075_p0.png"><div align="center"> <a href="https://www.bilibili.com/video/BV16V411B7LE"> [Jul 04, 2020] None.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/77033753_p0.png"><div align="center"> <a> [Sep 29, 2019] None.</a></div></div> 
