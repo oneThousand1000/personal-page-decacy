@@ -41,6 +41,7 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
 
 
 <div class="blog_photo_album_grid">
+  <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-12.png"><div align="center"> <a> [Nov 12, 2023] None. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-04.png"><div align="center"> <a> [Nov 04, 2023] 银杏~ </a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-02.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1ra4y1D7aE"> [Nov 02, 2023] Allow me to gently enter into that good night.</a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-01.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1ra4y1D7aE"> [Nov 01, 2023] None.</a></div></div>
