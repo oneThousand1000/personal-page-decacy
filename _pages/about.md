@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yiqian Wu (吴奕谦), a third-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
+I'm Yiqian Wu (吴奕谦), a third-year (2021-now) CS Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
 
 
 
 **Research Interest:** Computer Vision, Portrait Editing, Computer Animation.
 
-**Address:** Zijingang Campus of Zhejiang University, 866 Yuhangtang Rd, Hangzhou 310058, P.R. China.
+**Address:** Mengminwei Bldg, Zijingang Campus of Zhejiang University, 866 Yuhangtang Rd, Hangzhou 310058, China.
 
 **ORCID:** [0000-0002-2432-809X](https://orcid.org/0000-0002-2432-809X)
 
