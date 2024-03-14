@@ -30,7 +30,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 # Publications
 
-## 2023
+## 2023 ![1fa90](http://oneThousand1000.github.io/images/1fa90.png)
 
 1. [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
 
@@ -52,7 +52,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
    
 
-## 2022
+## 2022 ![1f320](http://oneThousand1000.github.io/images/1f320.png)
 
 1. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
 
@@ -62,7 +62,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 
 
-## 2021
+## 2021 ![2604-fe0f](http://oneThousand1000.github.io/images/2604-fe0f.png)
 
 1. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
 
@@ -78,7 +78,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 
 
-## 2020
+## 2020 ![1f37b](http://oneThousand1000.github.io/images/1f37b.png)
 
 1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment](https://onethousandwu.com/publication/iothopredictor)
 
