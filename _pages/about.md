@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yiqian Wu"
 excerpt: ""
 author_profile: true
 redirect_from: 
