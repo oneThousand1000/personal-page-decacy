@@ -15,7 +15,7 @@ author_profile: true
 
 
 
-## ----------------- 🌟 2023 -----------------
+## ----------------- ![1fa90](http://oneThousand1000.github.io/images/1fa90.png) 2023 -----------------
 
 {% for post in site.publications reversed %}
   {% if post.year == '2023' and post.first_author == 'yes' %}
@@ -31,7 +31,7 @@ author_profile: true
 
 
 
-## ----------------- 🪐 2022 -----------------
+## ----------------- ![1f320](http://oneThousand1000.github.io/images/1f320.png) 2022 -----------------
 
 {% for post in site.publications reversed %}
   {% if post.year == '2022' and post.first_author == 'yes' %}
@@ -49,7 +49,7 @@ author_profile: true
 
 
 
-## ----------------- ✨ 2021 -----------------
+## ----------------- ![2604-fe0f](http://oneThousand1000.github.io/images/2604-fe0f.png) 2021 -----------------
 
 {% for post in site.publications reversed %}
   {% if post.year == '2021' and post.first_author == 'yes' %}
@@ -69,7 +69,7 @@ author_profile: true
 
 
 
-## ----------------- 🎀 2020 -----------------
+## ----------------- ![1f37b](http://oneThousand1000.github.io/images/1f37b.png) 2020 -----------------
 
 {% for post in site.publications reversed %}
   {% if post.year == '2020' and post.first_author == 'yes' %}

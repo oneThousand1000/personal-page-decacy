@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yiqian Wu (吴奕谦), a third-year (2021-now) CS Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
+
+
+![favicon-32x32](http://oneThousand1000.github.io/images/favicon-32x32.png)I'm Yiqian Wu (吴奕谦), a third-year (2021-now) CS Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
 
 
 
