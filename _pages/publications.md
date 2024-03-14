@@ -31,7 +31,7 @@ author_profile: true
 
 
 
-## ----------------- ![1f320](http://oneThousand1000.github.io/images/1f320.png) 2022 -----------------
+## ----------------- ![1f47b](http://oneThousand1000.github.io/images/1f47b.png) 2022 -----------------
 
 {% for post in site.publications reversed %}
   {% if post.year == '2022' and post.first_author == 'yes' %}

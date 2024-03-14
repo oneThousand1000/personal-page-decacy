@@ -52,7 +52,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
    
 
-## 2022 ![1f320](http://oneThousand1000.github.io/images/1f320.png)
+## 2022 ![1f47b](http://oneThousand1000.github.io/images/1f47b.png)
 
 1. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
 
