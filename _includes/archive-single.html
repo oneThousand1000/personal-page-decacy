@@ -16,6 +16,25 @@
   {% assign teaser = post.teaser %}
 {% endif %}
 
+<style>
+      .card {
+        /* 添加阴影以创建 "card" 效果 */
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        border-radius: 5px;
+      }
+
+      /* 鼠标悬停时，添加更深的阴影 */
+      .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+      }
+
+      /* 在卡片容器内添加一些填充 */
+      .container {
+        padding: 2px 16px;
+      }
+</style>
+
 <div class="card">
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
