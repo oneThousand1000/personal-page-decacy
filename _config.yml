@@ -84,10 +84,10 @@ author:
   avatar           : "profile-yiqian.png"
   bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
-  pixiv            : #"https://www.pixiv.net/users/13883546"
+  pixiv            :
   bilibili         : "https://space.bilibili.com/6414209"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=MzWL6_gAAAAJ"
   email            : "onethousand@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,16 +102,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-2432-809X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            : 
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

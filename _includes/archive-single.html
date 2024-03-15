@@ -12,6 +12,10 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.teaser %}
+  {% assign teaser = post.teaser %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -34,6 +38,11 @@
       {% endif %} -->
       <p>{{ title }}</p>
     </h2>
+
+    <!--    image-->
+    <img src="{{ teaser }}" alt="" height="42">
+
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>

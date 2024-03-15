@@ -13,6 +13,7 @@ supplementary_materials: 'https://drive.google.com/file/d/16aNE5USZ0U32bgGJS1G5x
 project_page: 'https://github.com/oneThousand1000/3DPortraitGAN'
 year: '2023'
 first_author: 'yes'
+teaser: 'http://oneThousand1000.github.io/images/publications/3DPortraitGAN.png'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/3DPortraitGAN.png)
 
