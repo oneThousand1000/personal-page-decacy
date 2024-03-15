@@ -13,6 +13,7 @@ supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/sig20231/Supplement
 project_page: 'http://www.cad.zju.edu.cn/home/jin/sig20231/SigMRPNN2023.htm'
 year: '2023'
 first_author: 'no'
+teaser: 'http://oneThousand1000.github.io/images/publications/mrpnn.png'
 ---
 ![mrpnn](http://oneThousand1000.github.io/images/publications/mrpnn.png)
 

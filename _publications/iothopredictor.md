@@ -9,6 +9,7 @@ paperurl: 'https://dl.acm.org/doi/10.1145/3414685.3417771'
 citation: 'http://oneThousand1000.github.io/files/bibtex/iothopredictor.html'
 year: '2020'
 first_author: 'no'
+teaser: 'http://oneThousand1000.github.io/images/publications/iothopredictor.png'
 ---
 ![iothopredictor](http://oneThousand1000.github.io/images/publications/iothopredictor.png)
 

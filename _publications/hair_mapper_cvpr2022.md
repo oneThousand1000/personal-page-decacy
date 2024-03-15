@@ -13,6 +13,7 @@ supplementary_materials: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplement
 project_page: 'http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm'
 year: '2022'
 first_author: 'yes'
+teaser: 'http://oneThousand1000.github.io/images/publications/hairmapper.png'
 ---
 ![hairmapper](http://oneThousand1000.github.io/images/publications/hairmapper.png)
 

@@ -13,6 +13,7 @@ supplementary_materials: 'https://drive.google.com/file/d/1Xktg7oqMMNN9hqGYva3BB
 project_page: 'http://www.cad.zju.edu.cn/home/jin/iccv2023/iccv2023.htm'
 year: '2023'
 first_author: 'yes'
+teaser: 'http://oneThousand1000.github.io/images/publications/lpff.png'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/lpff.png)
 

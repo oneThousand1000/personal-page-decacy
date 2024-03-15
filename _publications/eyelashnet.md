@@ -13,6 +13,7 @@ supplementary_materials: ''
 project_page: 'http://www.cad.zju.edu.cn/home/jin/siga2021/siga2021.htm'
 year: '2021'
 first_author: 'no'
+teaser: 'http://oneThousand1000.github.io/images/publications/eyelashnet.png'
 ---
 
 <b>Abstract:</b>

@@ -13,6 +13,7 @@ supplementary_materials: 'https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0A
 project_page: 'http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm'
 year: '2021'
 first_author: 'yes'
+teaser: 'http://oneThousand1000.github.io/images/publications/coarse2fine.png'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/coarse2fine.png)
 
