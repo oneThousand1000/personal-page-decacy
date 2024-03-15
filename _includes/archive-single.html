@@ -16,6 +16,7 @@
   {% assign teaser = post.teaser %}
 {% endif %}
 
+<div class="card">
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -43,7 +44,7 @@
     <img src="{{ teaser }}" alt="" width="40%">
 
 
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -73,22 +74,22 @@
     {% endif %} -->
     <p>
       {% if post.citation%}
-      [<a href="{{ post.citation }}">cite</a>] 
+      [<a href="{{ post.citation }}">cite</a>]
       {% endif %}
       {% if post.paperurl%}
-      [<a href="{{ post.paperurl }}">paperurl</a>] 
+      [<a href="{{ post.paperurl }}">paperurl</a>]
       {% endif %}
       {% if post.video%}
-      [<a href="{{ post.video }}">video</a>] 
+      [<a href="{{ post.video }}">video</a>]
       {% endif %}
       {% if post.code%}
-      [<a href="{{ post.code }}">code</a>] 
+      [<a href="{{ post.code }}">code</a>]
       {% endif %}
       {% if post.supplementary_materials%}
-      [<a href="{{ post.supplementary_materials }}">supplementary materials</a>] 
+      [<a href="{{ post.supplementary_materials }}">supplementary materials</a>]
       {% endif %}
       {% if post.project_page%}
-      [<a href="{{ post.project_page }}">project page</a>] 
+      [<a href="{{ post.project_page }}">project page</a>]
       {% endif %}
 
     </p>
@@ -112,4 +113,5 @@
     {% endif %} -->
 
   </article>
+</div>
 </div>
