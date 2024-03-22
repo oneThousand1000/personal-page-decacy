@@ -25,7 +25,7 @@ teaser: 'http://oneThousand1000.github.io/images/publications/3DPortraitGAN.png'
 
 [Suppl](https://drive.google.com/file/d/16aNE5USZ0U32bgGJS1G5xWrY0oIMTfre/view?usp=sharing) 
 
-[Project Page](https://github.com/oneThousand1000/3DPortraitGAN)
+[Project Page](https://onethousandwu.com/3DPortraitGAN.github.io/)
 
 
 

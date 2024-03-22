@@ -31,7 +31,7 @@ Facial structure editing of portrait images is challenging given the facial vari
 
 [[supplementary materials](https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing)]
 
-[[project page](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)]
+[[project page]('https://onethousandwu.com/doublechinremoval.github.io/)]
 
 [[dataset]](https://github.com/oneThousand1000/coarse-to-fine-chin-editing)
 

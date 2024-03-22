@@ -33,7 +33,7 @@ teaser: 'http://oneThousand1000.github.io/images/publications/hairmapper.png'
 
 [[suppl-high resolution (16.4M)](https://drive.google.com/file/d/1_hXrqicomEi79Tm52CKgNamezgWlykDh/view?usp=sharing)]
 
-[[project page](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)]
+[[project page](https://onethousandwu.com/HairMapper.github.io/)]
 
 [[dataset]](https://github.com/oneThousand1000/non-hair-FFHQ)
 

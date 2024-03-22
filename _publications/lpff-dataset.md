@@ -31,7 +31,7 @@ In this paper, we present **LPFF**, a large-pose Flickr face dataset comprised o
 
 [Suppl](https://drive.google.com/file/d/1Xktg7oqMMNN9hqGYva3BBTJoux17y2SR/view?usp=sharing) 
 
-[Project Page](http://www.cad.zju.edu.cn/home/jin/iccv2023/iccv2023.htm)
+[Project Page](https://onethousandwu.com/LPFF.github.io/)
 
 
 
