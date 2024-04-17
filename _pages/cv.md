@@ -40,7 +40,7 @@ Sep. 2017 - Jun. 2021
 
 
 
-## 2024 ![1f431](http://oneThousand1000.github.io/images/1f431.png)
+## 2024 
 1. [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
 
    Preprint
