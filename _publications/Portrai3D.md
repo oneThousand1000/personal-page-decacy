@@ -13,7 +13,7 @@ supplementary_materials: 'https://drive.google.com/file/d/1LasG-urCA7rEoITHofBwE
 project_page: 'https://onethousandwu.com/Portrait3D.github.io/'
 year: '2024'
 first_author: 'yes'
-teaser: 'http://oneThousand1000.github.io/images/publications/portrait3D.png'
+teaser: 'http://oneThousand1000.github.io/images/publications/portrait3d.png'
 ---
 ![portrait3d](http://oneThousand1000.github.io/images/publications/portrait3d.png)
 
