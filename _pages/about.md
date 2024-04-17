@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+![bar](https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png)
 
 I am Yiqian Wu (吴奕谦), a CS Ph.D. student (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating with honors from the Chu Kochen College at Zhejiang University in 2021.
 
