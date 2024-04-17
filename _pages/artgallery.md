@@ -5,7 +5,7 @@ permalink: /artgallery/
 author_profile: true
 ---
 
-Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand (since 'Yiqian' sounds like '1000' in Chinese). I started drawing around the age of four, and one of the greatest joys in my life is creating my own small world beneath my paintbrush. Here, I have posted some of my recent doodles in my art gallery on the website. I hope you will enjoy them too ~
+Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand (since 'Yiqian' sounds like '1000' in Chinese). Here, I have posted some of my recent doodles. I hope you will enjoy them too ~
 
 
 

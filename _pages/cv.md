@@ -14,6 +14,12 @@ redirect_from:
 Education
 ======
 
+## Academic guest at ETH Zurich
+
+May. 2024 - Feb. 2025
+
+- Under the supervision of Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).
+
 ## Ph.D. in Computer Science and Technology
 
 Sep. 2021 - Exp. Jun. 2026
@@ -31,6 +37,17 @@ Sep. 2017 - Jun. 2021
 
 
 # Publications
+
+
+
+## 2024 ![1f431](http://oneThousand1000.github.io/images/1f431.png)
+1. [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
+
+   Preprint
+
+   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
+
+
 
 ## 2023
 

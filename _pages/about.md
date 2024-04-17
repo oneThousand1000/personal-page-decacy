@@ -10,11 +10,13 @@ redirect_from:
 
 
 
-![favicon-32x32](http://oneThousand1000.github.io/images/favicon-32x32.png)I'm Yiqian Wu (吴奕谦), a third-year (2021-now) CS Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
+I am Yiqian Wu (吴奕谦), a CS Ph.D. student (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating with honors from the Chu Kochen College at Zhejiang University in 2021.
+
+**Starting in May 2024, I will begin my academic guest journey at [ETH Zurich](https://ethz.ch/en.html), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).** 
 
 
 
-**Research Interest:** Computer Vision, Portrait Editing, Computer Animation.
+**Research Interest:** Computer Vision, Portrait Editing and Generation, Computer Animation.
 
 **Address:** Mengminwei Bldg, Zijingang Campus of Zhejiang University, 866 Yuhangtang Rd, Hangzhou 310058, China.
 
@@ -30,25 +32,35 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 # Publications
 
+
+## 2024 ![1f431](http://oneThousand1000.github.io/images/1f431.png)
+1. [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
+
+   Preprint
+
+   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
+
+
+
 ## 2023 ![1fa90](http://oneThousand1000.github.io/images/1fa90.png)
 
 1. [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
 
    Preprint
 
-   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin
+   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
 
 2. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
 
    2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
-   **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin.
+   **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin*
 
 4. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 
-   ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Association for Computing Machinery, New York, NY, USA, Article 61, 1–10.
+   ACM SIGGRAPH 2023 (Conference Track)
 
-   Jinkai Hu, Chengzhong Yu, Hongli Liu, Ling-qi Yan, **Yiqian Wu**, Xiaogang Jin.
+   Jinkai Hu, Chengzhong Yu, Hongli Liu, Ling-qi Yan, **Yiqian Wu**, Xiaogang Jin*
 
    
 
@@ -58,7 +70,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
    2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
 
-   **Yiqian Wu**, Yongliang Yang, Xiaogang Jin.
+   **Yiqian Wu**, Yongliang Yang, Xiaogang Jin*
 
 
 
@@ -66,15 +78,15 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 1. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
 
-   ACM Trans. Graph. 40, 4, Article 46 (August 2021), 13 pages.
+   ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021)
 
-   **Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin.
+   **Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin*
 
 2. [EyelashNet: A Dataset and A Baseline Method for Eyelash Matting](https://onethousandwu.com/publication/eyelashnet)
 
-   ACM Trans. Graph. 40, 6, Article 217 (December 2021), 17 pages.
+   ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2021)
 
-   Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
+   Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin*, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
 
 
 
@@ -82,6 +94,6 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment](https://onethousandwu.com/publication/iothopredictor)
 
-   ACM Transactions on Graphics (Proc. of Siggraph Asia 2020), 39(6), Article 216., 2020
+   ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2020)
 
-   Lingchen Yang, Zefeng Shi, **Yiqian Wu**, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng.
+   Lingchen Yang, Zefeng Shi, **Yiqian Wu**, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng*

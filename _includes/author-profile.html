@@ -15,7 +15,8 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+     {% if author.avatar_des %}<p class="avatar__des" style="color: #B5C0D0">{{ author.avatar_des }}</p>{% endif %}
+    <h2 class="author__name">{{ author.name }}</h2>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 

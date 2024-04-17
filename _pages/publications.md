@@ -11,7 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
+## ----------------- ![1f431](http://oneThousand1000.github.io/images/1f431.png) 2024 -----------------
 
+{% for post in site.publications reversed %}
+  {% if post.year == '2024' and post.first_author == 'yes' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2024' and post.first_author == 'no' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 
 
