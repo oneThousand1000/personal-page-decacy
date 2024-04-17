@@ -17,6 +17,16 @@ teaser: 'http://oneThousand1000.github.io/images/publications/hairmapper.png'
 ---
 ![hairmapper](http://oneThousand1000.github.io/images/publications/hairmapper.png)
 
+
+
+> **HairMapper: Removing Hair from Portraits Using GANs**
+>
+> 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+>
+> Yiqian Wu, [Yongliang Yang](https://www.yongliangyang.net/), [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin/)
+
+
+
 <b>Abstract:</b>
 
 Removing hair from portrait images is challenging due to the complex occlusions between hair and face, as well as the lack of paired portrait data with/without hair. To this end, we present a dataset and a baseline method for removing hair from portrait images using generative adversarial networks (GANs). Our core idea is to train a fully connected network HairMapper to find the direction of hair removal in the latent space of StyleGAN for the training stage. We develop a new separation boundary and diffuse method to generate paired training data for males, and a novel ''female-male-bald'' pipeline for paired data of females. Experiments show that our method can naturally deal with portrait images with variations on gender, age, etc. We validate the superior performance of our method by comparing it to state-of-the-art methods through extensive experiments and user studies. We also demonstrate its applications in hair design and 3D face reconstruction.

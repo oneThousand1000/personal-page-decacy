@@ -17,6 +17,16 @@ teaser: 'http://oneThousand1000.github.io/images/publications/lpff.png'
 ---
 ![coarse2fine](http://oneThousand1000.github.io/images/publications/lpff.png)
 
+
+
+> **LPFF: A Portrait Dataset for Face Generators Across Large Poses**
+>
+> 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+>
+> Yiqian Wu, Jing Zhang, [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin)
+
+
+
 <b>Abstract:</b>
 
 The creation of 2D realistic facial images and 3D face shapes using generative networks has been a hot topic in recent years. Existing face generators exhibit exceptional performance on faces in small to medium poses (with respect to frontal faces), but struggle to produce realistic results for large poses. The distorted rendering results on large poses in 3D-aware generators further show that the generated 3D face shapes are far from the distribution of 3D faces in reality. We find that the above issues are caused by the training dataset's posture imbalance.

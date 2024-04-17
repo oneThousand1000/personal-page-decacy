@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![bar](https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png)
+<img src="https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png" alt="bar" style="zoom: 80%;" />
 
 I am Yiqian Wu (吴奕谦), a CS Ph.D. student (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating with honors from the Chu Kochen College at Zhejiang University in 2021.
 
@@ -36,7 +36,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 ## 2024 ![1f431](http://oneThousand1000.github.io/images/1f431.png)
 1. [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
 
-   Preprint
+   ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)
 
    **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
 
