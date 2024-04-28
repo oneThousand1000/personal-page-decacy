@@ -10,10 +10,7 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png" alt="bar" style="zoom: 80%;" />
 
-I am Yiqian Wu (吴奕谦), a CS Ph.D. student (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating with honors from the Chu Kochen College at Zhejiang University in 2021.
-
-**Starting in May 2024, I will begin my academic guest journey at [ETH Zurich](https://ethz.ch/en.html), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).** 
-
+I am Yiqian Wu (吴奕谦), now serving as an academic guest at [ETH Zurich](https://ethz.ch/en.html) (May 2024 - Feb 2025), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Concurrently, I am a CS Ph.D. student (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2021.
 
 
 **Research Interest:** Computer Vision, Portrait Editing and Generation, Computer Animation.
