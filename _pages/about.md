@@ -37,6 +37,18 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
    **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
 
+2. [FusionDeformer: Text-guided Mesh Deformation using Diffusion Models](https://onethousandwu.com/publication/FusionDeformer)
+
+   The Visual Computer (Special Issue of CGI'2024)
+
+   Hao Xu, **Yiqian Wu**, Xiangjun Tang, Jing Zhang, Yang Zhang, Zhebin Zhang, Chen Li and Xiaogang Jin*
+
+3. [Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning](https://onethousandwu.com/publication/rendered_face_authenticity_enhanceing)
+
+   Computer Animation and Virtual Worlds (Special Issue of CASA'2024)
+
+   Luyuan Wang, **Yiqian Wu**, Yongliang Yang, Chen Liu, Xiaogang Jin*
+
 
 
 ## 2023 ![1fa90](http://oneThousand1000.github.io/images/1fa90.png)
