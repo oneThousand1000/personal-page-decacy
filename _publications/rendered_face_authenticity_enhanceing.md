@@ -37,17 +37,5 @@ Despite rapid advances in computer graphics, creating high-quality photo-realist
 
 Recommended citation: 
 ```
-@article{Portrait3D_sig24,
-author = {Wu, Yiqian and Xu, Hao and Tang, Xiangjun and Chen, Xien and Tang, Siyun and Zhang, Zhebin and Li, Chen and Jin, Xiaogang},
-title = {Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior},
-year = {2024},
-publisher = {Association for Computing Machinery},
-volume = {43},
-number = {4},
-url = {https://doi.org/10.1145/3658162},
-doi = {10.1145/3658162},
-journal = {ACM Trans. Graph.},
-month = {Jul},
-articleno = {45}
-}
+coming soon.
 ```
