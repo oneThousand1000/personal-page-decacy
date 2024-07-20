@@ -46,17 +46,22 @@ Our experimental results show that Portrait3D can produce realistic, high-qualit
 
 Recommended citation: 
 ```
-@article{Portrait3D_sig24,
-author = {Wu, Yiqian and Xu, Hao and Tang, Xiangjun and Chen, Xien and Tang, Siyun and Zhang, Zhebin and Li, Chen and Jin, Xiaogang},
+@article{10.1145/3658162,
+author = {Wu, Yiqian and Xu, Hao and Tang, Xiangjun and Chen, Xien and Tang, Siyu and Zhang, Zhebin and Li, Chen and Jin, Xiaogang},
 title = {Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior},
 year = {2024},
+issue_date = {July 2024},
 publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
 volume = {43},
 number = {4},
+issn = {0730-0301},
 url = {https://doi.org/10.1145/3658162},
 doi = {10.1145/3658162},
 journal = {ACM Trans. Graph.},
-month = {Jul},
-articleno = {45}
+month = {jul},
+articleno = {45},
+numpages = {12},
+keywords = {3D portrait generation, 3D-aware GANs, diffusion models}
 }
 ```
