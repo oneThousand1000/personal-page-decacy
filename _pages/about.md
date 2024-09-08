@@ -37,13 +37,25 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
    **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
 
-2. [FusionDeformer: Text-guided Mesh Deformation using Diffusion Models](https://onethousandwu.com/publication/FusionDeformer)
+2. [StyleTex: Style Image-Guided Texture Generation for 3D Models](https://onethousandwu.com/publication/StyleTex)
+
+   ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2024)
+
+   Zhiyu Xie, Yuqing Zhang, Xiangjun Tang, **Yiqian Wu**, Dehan Chen, Gongsheng Li, Xiaogang Jin*
+
+3. [Decoupling Contact for Fine-Grained Motion Style Transfer](https://onethousandwu.com/publication/Decoupling_Contact)
+
+   ACM SIGGRAPH Asia 2024 (Conference Track)
+
+   Xiangjun Tang, Linjun Wu, He Wang, **Yiqian Wu**, Bo Hu, Songnan Li, Xu Gong, Yuchen Liao, Qilong Kou, Xiaogang Jin*
+
+4. [FusionDeformer: Text-guided Mesh Deformation using Diffusion Models](https://onethousandwu.com/publication/FusionDeformer)
 
    The Visual Computer (Special Issue of CGI'2024)
 
    Hao Xu, **Yiqian Wu**, Xiangjun Tang, Jing Zhang, Yang Zhang, Zhebin Zhang, Chen Li and Xiaogang Jin*
 
-3. [Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning](https://onethousandwu.com/publication/rendered_face_authenticity_enhanceing)
+5. [Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning](https://onethousandwu.com/publication/rendered_face_authenticity_enhanceing)
 
    Computer Animation and Virtual Worlds (Special Issue of CASA'2024)
 

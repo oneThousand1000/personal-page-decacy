@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/StyleTex
 excerpt: '[Zhiyu Xie](), [Yuqing Zhang](https://zzzyuqing.github.io/),  [Xiangjun Tang](https://yuyujunjun.github.io/), **[Yiqian Wu](https://onethousandwu.com/)**, Dehan Chen, Gongsheng Li, [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin) '
 date: 2024-07-28
-venue: "ACM SIGGRAPH Asia 2024 (Conference Track)"
+venue: "ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2024)"
 paperurl: ''
 citation: ''
 code: ''
