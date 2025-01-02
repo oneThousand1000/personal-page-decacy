@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png" alt="bar" style="zoom: 80%;" />
-
-I am Yiqian Wu (吴奕谦), now serving as an academic guest at [ETH Zurich](https://ethz.ch/en.html) (May 2024 - Feb 2025), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Concurrently, I am a CS Ph.D. candidate (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2021.
+I am Yiqian Wu (吴奕谦), now serving as an academic guest at [ETH Zurich](https://ethz.ch/en.html) (May 2024 - May 2025), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Concurrently, I am a CS Ph.D. candidate (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2021.
 
 
 **Research Interest:** Computer Vision, Portrait Editing and Generation, Computer Animation.
@@ -27,94 +25,40 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 
 
-# Publications
+### Publications
 
+**Explore the complete list of publications 👉️ [here](https://onethousandwu.com/publications/) .**
 
-## 2024 ![1f431](http://oneThousand1000.github.io/images/1f431.png)
 1. [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
 
    ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)
 
    **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
 
-2. [StyleTex: Style Image-Guided Texture Generation for 3D Models](https://onethousandwu.com/publication/StyleTex)
-
-   ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2024)
-
-   Zhiyu Xie, Yuqing Zhang, Xiangjun Tang, **Yiqian Wu**, Dehan Chen, Gongsheng Li, Xiaogang Jin*
-
-3. [Decoupling Contact for Fine-Grained Motion Style Transfer](https://onethousandwu.com/publication/Decoupling_Contact)
-
-   ACM SIGGRAPH Asia 2024 (Conference Track)
-
-   Xiangjun Tang, Linjun Wu, He Wang, **Yiqian Wu**, Bo Hu, Songnan Li, Xu Gong, Yuchen Liao, Qilong Kou, Xiaogang Jin*
-
-4. [FusionDeformer: Text-guided Mesh Deformation using Diffusion Models](https://onethousandwu.com/publication/FusionDeformer)
-
-   The Visual Computer (Special Issue of CGI'2024)
-
-   Hao Xu, **Yiqian Wu**, Xiangjun Tang, Jing Zhang, Yang Zhang, Zhebin Zhang, Chen Li and Xiaogang Jin*
-
-5. [Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning](https://onethousandwu.com/publication/rendered_face_authenticity_enhanceing)
-
-   Computer Animation and Virtual Worlds (Special Issue of CASA'2024)
-
-   Luyuan Wang, **Yiqian Wu**, Yongliang Yang, Chen Liu, Xiaogang Jin*
-
-
-
-## 2023 ![1fa90](http://oneThousand1000.github.io/images/1fa90.png)
-
-1. [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
-
-   Preprint
-
-   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
-
-2. [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
+2.  [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
 
    2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
    **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin*
 
-4. [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
-
-   ACM SIGGRAPH 2023 (Conference Track)
-
-   Jinkai Hu, Chengzhong Yu, Hongli Liu, Ling-qi Yan, **Yiqian Wu**, Xiaogang Jin*
-
-   
-
-## 2022 ![1f47b](http://oneThousand1000.github.io/images/1f47b.png)
-
-1. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
+3. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
 
    2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
 
    **Yiqian Wu**, Yongliang Yang, Xiaogang Jin*
 
-
-
-## 2021 ![2604-fe0f](http://oneThousand1000.github.io/images/2604-fe0f.png)
-
-1. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
+4. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
 
    ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021)
 
    **Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin*
 
-2. [EyelashNet: A Dataset and A Baseline Method for Eyelash Matting](https://onethousandwu.com/publication/eyelashnet)
+5. [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
 
-   ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2021)
+   Preprint
 
-   Qinjie Xiao, Hanyuan Zhang, Zhaorui Zhang, **Yiqian Wu**, Luyuan Wang, Xiaogang Jin*, Xinwei Jiang, Yongliang Yang, Tianjia Shao, Kun Zhou.
+   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
 
 
 
-## 2020 ![1f37b](http://oneThousand1000.github.io/images/1f37b.png)
-
-1. [iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment](https://onethousandwu.com/publication/iothopredictor)
-
-   ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2020)
-
-   Lingchen Yang, Zefeng Shi, **Yiqian Wu**, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng*
+​	
