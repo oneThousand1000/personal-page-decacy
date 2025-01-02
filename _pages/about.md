@@ -25,39 +25,41 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 
 
-### Publications
+
+
+## Publications
 
 **Explore the complete list of publications 👉️ [here](https://onethousandwu.com/publications/) .**
 
-1. [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
+1. > [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://onethousandwu.com/publication/Portrait3D)
+>
+   > ACM Transactions on Graphics (Proceedings of **SIGGRAPH** 2024)
+>
+   > **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
 
-   ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)
+2.  > [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
+>
+   > 2023 IEEE/CVF International Conference on Computer Vision (**ICCV**)
+>
+   > **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin*
 
-   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
+3. > [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
+>
+   > 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 
+>
+   > **Yiqian Wu**, Yongliang Yang, Xiaogang Jin*
 
-2.  [LPFF: A Portrait Dataset for Face Generators Across Large Poses](https://onethousandwu.com/publication/lpff-dataset)
+4. > [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
+>
+   > ACM Transactions on Graphics (Proceedings of **SIGGRAPH** 2021)
+>
+   > **Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin*
 
-   2023 IEEE/CVF International Conference on Computer Vision (ICCV)
-
-   **Yiqian Wu**, Jing Zhang, Hongbo Fu, Xiaogang Jin*
-
-3. [HairMapper: Removing Hair from Portraits Using GANs](https://onethousandwu.com/publication/hair_mapper_cvpr2022)
-
-   2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
-
-   **Yiqian Wu**, Yongliang Yang, Xiaogang Jin*
-
-4. [Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications](https://onethousandwu.com/publication/coarse-to-fine)
-
-   ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021)
-
-   **Yiqian Wu**, Yongliang Yang, Qinjie Xiao, Xiaogang Jin*
-
-5. [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
-
-   Preprint
-
-   **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
+5. > [3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses](https://onethousandwu.com/publication/3DPortraitGAN)
+   >
+   > Preprint
+   >
+   > **Yiqian Wu**, Hao Xu, Xiangjun Tang, Hongbo Fu, Xiaogang Jin*
 
 
 
