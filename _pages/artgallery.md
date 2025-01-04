@@ -41,6 +41,7 @@ Hi there! My name is Yiqian Wu :), you can also call me 1000, 1k, or Onethousand
 
 
 <div class="blog_photo_album_grid">
+<div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2025-01-01.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1AYrsYXEsk"> [Jan 1, 2025] CC98-2025新年红包封面. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-12-29.png"><div align="center"> <a href="https://www.bilibili.com/video/BV1k64y1J7Qe"> [Dec 29, 2023] CC98-2024新年红包封面. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-23.png"><div align="center"> <a> [Nov 23, 2023] None. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://onethousand1000.github.io/images/art/2023-11-12.png"><div align="center"> <a> [Nov 12, 2023] None. </a></div></div>
