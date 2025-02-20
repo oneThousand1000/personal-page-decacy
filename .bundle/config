@@ -1,2 +1,4 @@
 ---
 BUNDLE_MIRROR__HTTPS://RUBYGEMS__ORG/: "https://gems.ruby-china.com"
+BUNDLE_PATH: "vendor/bundle"
+BUNDLE_GIT__ALLOW_INSECURE: "true"
