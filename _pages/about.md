@@ -25,7 +25,7 @@ I love painting!  I have posted some of my paintings on my website's [art galler
 
 My current research focuses on portrait editing and generation. I have proposed two portrait image editing methods based on 2D GAN models, developed a dataset and designed a new architecture for 3D-aware face GANs. Currently, I am utilizing diffusion models for text-guided 3D avatar generation and extending this approach to enable animatability.
 
-Below is an overview that showcases all of my papers through a single identity!"
+Below is an overview that showcases all of my papers through a single identity!
 
 <img src="https://oneThousand1000.github.io/images/overview.png" width="100%" height="auto">
 
