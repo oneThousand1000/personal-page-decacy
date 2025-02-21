@@ -2,7 +2,7 @@
 title: "Decoupling Contact for Fine-Grained Motion Style Transfer"
 collection: publications
 permalink: /publication/Decoupling_Contact
-excerpt: '[Xiangjun Tang](https://yuyujunjun.github.io/), [Linjun Wu](https://fivezerojun.github.io/), [He Wang](https://drhewang.com/), **[Yiqian Wu](https://onethousandwu.com/)**, Bo Hu, Songnan Li, Xu Gong, Yuchen Liao, Qilong Kou, [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin)'
+excerpt: '[Xiangjun Tang](https://yuyujunjun.github.io/), [Linjun Wu](https://fivezerojun.github.io/), [He Wang](https://drhewang.com/), **Yiqian Wu**, Bo Hu, Songnan Li, Xu Gong, Yuchen Liao, Qilong Kou, [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin)'
 date: 2024-07-28
 venue: "ACM SIGGRAPH Asia 2024 (Conference Track)"
 paperurl: 'http://www.cad.zju.edu.cn/home/jin/SigA20241/High_quality_Controllable_Motion_Style_Transfer.pdf'

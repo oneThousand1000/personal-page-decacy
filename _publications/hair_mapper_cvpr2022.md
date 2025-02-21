@@ -2,7 +2,7 @@
 title: "HairMapper: Removing Hair from Portraits Using GANs"
 collection: publications
 permalink: /publication/hair_mapper_cvpr2022
-excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/),[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)'
+excerpt: '**Yiqian Wu**, [Yongliang Yang](https://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)'
 date: 2022-03-02
 venue: '2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/html/Wu_HairMapper_Removing_Hair_From_Portraits_Using_GANs_CVPR_2022_paper.html'

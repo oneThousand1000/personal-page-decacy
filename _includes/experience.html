@@ -1,77 +1,86 @@
 {% include base_path %}
 
-
 <style>
 .media {
     display: flex;
-  align-items: center; /* Vertically centers image and text */
-  gap: 10px; /* Reduce spacing between image and text */
-  margin-bottom: 5%;
-  }
+    align-items: center; /* Vertically centers image and text */
+    gap: 2vw; /* Adds space between image and text */
+    margin-bottom: 5%;
+}
   
-  .logo {
-    max-width: 40%; /* Ensures image scales properly */
-    height: 100%; /* Ensures image scales properly */
-  display: block;
-  align-items: center;
-  }
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 2vw; /* Space between images */
+    max-width: 40%; /* Adjusted to maintain proportion */
+}
   
-  .desc {
-    width: 53%;
+.logo img {
+    width: auto;
+    height: 8vh; /* Adjust height based on viewport height */
+    max-width: 100%; /* Ensures images do not overflow */
+    object-fit: contain; /* Keeps aspect ratio */
+}
+  
+.desc {
+    width: 63%;
     margin-left: 2%;
     padding: 0;
     line-height: 1.2; /* Adjust line height to make text more compact */
-    font-size: 16px; /* Adjust font size if needed */
-    /* algin to left */
-    text-align: left;
-  }
+    font-size: 1em; /* Adjust font size based on the default */
+    text-align: left; /* Align text to left */
+}
 
-  p {
-  font-family: "sans-serif-narrow", sans-serif;
+p {
+    font-family: "sans-serif-narrow", sans-serif;
 }
 
 </style>
-  
+
 <div class="media">
-    <a class="logo">
-        <img src="https://oneThousand1000.github.io/images/experiences/eth.png" width="45%" height="auto">
-        <img src="https://oneThousand1000.github.io/images/experiences/logo-vlg-text.png" width="45%" height="auto">
-      </a>
-      
+    <div class="logo">
+        <a href="https://ethz.ch/en.html" target="_blank">
+            <img src="https://oneThousand1000.github.io/images/experiences/eth.png" width="45%" height="auto">
+        </a>
+        <a href="https://vlg.inf.ethz.ch/" target="_blank">
+            <img src="https://oneThousand1000.github.io/images/experiences/logo-vlg-text.png" width="45%" height="auto">
+        </a>
+    </div>
     <div class="desc">
-      <p  >
+      <p>
         <strong>Academic Guest </strong> <br>Computer Vision and Learning Group (VLG), ETH Zürich. <br>
         Zürich, Switzerland. <i>May. 2024 - May. 2025</i>
       </p>
     </div>
-  </div>
+</div>
 
 <div class="media">
-    <a class="logo">
-        <img src="https://oneThousand1000.github.io/images/experiences/zjucad.jpg" >
-      </a>
-      
+    <div class="logo">
+        <a href="https://www.cad.zju.edu.cn/" target="_blank">
+            <img src="https://oneThousand1000.github.io/images/experiences/zjucad.jpg">
+        </a>
+    </div>
     <div class="desc">
-      <p  >
+      <p>
         <strong>Ph.D.</strong> <br> State Key Lab of CAD&CG, Zhejiang University. <br>
-        Hangzhou, China. <i>Sep. 2021 - Exp. Jun. 2026 </i>
+        Hangzhou, China. <i>Sep. 2021 - Exp. Jun. 2026</i>
       </p>
     </div>
-  </div>
-  
+</div>
 
-
-  <div class="media">
-    <a class="logo">
-        <img src="https://oneThousand1000.github.io/images/experiences/zju.png" width="20%" height="auto">
-        <img src="https://oneThousand1000.github.io/images/experiences/ckc.png" width="70%" height="auto">
-      </a>
-      
+<div class="media">
+    <div class="logo">
+        <a href="https://www.zju.edu.cn/" target="_blank">
+            <img src="https://oneThousand1000.github.io/images/experiences/zju.png" width="10%" height="auto">
+        </a>
+        <a href="https://ckc.zju.edu.cn/" target="_blank">
+            <img src="https://oneThousand1000.github.io/images/experiences/ckc.png" width="70%" height="auto">
+        </a>
+    </div>
     <div class="desc">
-      <p  >
+      <p>
         <strong>Bachelor </strong> <br> Chu Kochen Honors College, Zhejiang University. <br>
         Hangzhou, China. <i>Sep. 2017 - Jun. 2021</i>
       </p>
     </div>
-  </div>
-  
+</div>

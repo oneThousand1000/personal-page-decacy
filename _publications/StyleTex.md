@@ -2,7 +2,7 @@
 title: "StyleTex: Style Image-Guided Texture Generation for 3D Models"
 collection: publications
 permalink: /publication/StyleTex
-excerpt: '[Zhiyu Xie](), [Yuqing Zhang](https://zzzyuqing.github.io/),  [Xiangjun Tang](https://yuyujunjun.github.io/), **[Yiqian Wu](https://onethousandwu.com/)**, Dehan Chen, Gongsheng Li, [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin) '
+excerpt: '[Zhiyu Xie](), [Yuqing Zhang](https://zzzyuqing.github.io/),  [Xiangjun Tang](https://yuyujunjun.github.io/), **Yiqian Wu**, Dehan Chen, Gongsheng Li, [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin) '
 date: 2024-07-28
 venue: "ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2024)"
 paperurl: ''
