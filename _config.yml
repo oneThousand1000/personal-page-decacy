@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1000"
+title                    : "Yiqian Wu"
 title_separator          : "-"
 name                     : &name "Yiqian Wu"
 description              : &description "Academic guest at ETH Zurich & Ph.D. candidate in State Key Lab of CAD&CG at Zhejiang University"
@@ -81,8 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiqian Wu"
-  avatar           : "profile-yiqian.png"
-  avatar_des       : "📷 by chenning"
+  avatar           : "profile-yiqian.png" 
   bio              : "Academic guest at ETH Zurich, <br /> Ph.D. candidate in State Key Lab of CAD&CG at Zhejiang University"
   location         : "Hangzhou, China"
   pixiv            :
@@ -90,7 +89,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=MzWL6_gAAAAJ"
-  email            : "onethousand@zju.edu.cn"
+  email            : "onethousand1250@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
