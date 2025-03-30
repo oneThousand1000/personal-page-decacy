@@ -55,7 +55,7 @@
   width: 68%;   
   margin:0px auto 0px 32%;  
 }
-h4 { 
+h3 { 
     margin-bottom: 0 !important;
 }
 h5 {
@@ -85,9 +85,9 @@ h5 {
         <div class="left_box"> <img src="{{ teaser }}" alt="" > </div>
 
         <div class="right_box"> 
-                <h4 class="abstract__item-title"> 
+                <h3 class="abstract__item-title"> 
                 <p>{{ title }}</p>
-                </h4> 
+                </h3> 
           <h5 class="abstract__subtitle">      
             {% if post.collection == 'teaching' %}
               <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
