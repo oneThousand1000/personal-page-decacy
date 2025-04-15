@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yiqian Wu (吴奕谦), now serving as an academic guest at [ETH Zurich](https://ethz.ch/en.html) (May 2024 - May 2025), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Concurrently, I am a CS Ph.D. candidate (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2021.
+I am Yiqian Wu (吴奕谦), a fourth-year CS Ph.D. candidate at the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, where I have been conducting research under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin) since 2021. From May 2024 to April 2025, I was an academic guest at [ETH Zurich](https://ethz.ch/en.html), collaborating with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). I received my Bachelor's degree in Computer Science and Technology from the Chu Kochen College at Zhejiang University in 2021.
 
-**Address:** Mengminwei Bldg, Zijingang Campus of Zhejiang University, 866 Yuhangtang Rd, Hangzhou 310058, China.
+**Address:** Zijingang Campus of Zhejiang University, 866 Yuhangtang Rd, Hangzhou 310058, China.
 
 **ORCID:** [0000-0002-2432-809X](https://orcid.org/0000-0002-2432-809X)
 
