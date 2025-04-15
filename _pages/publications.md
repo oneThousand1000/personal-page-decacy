@@ -5,11 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+<div>
+  <h2 class="abstract__item-title">
+    <span>Representative papers are </span>
+    <span style="background-color: #E4EFE7">highlighted.</span> 
+  </h2>
+</div>
+
 
 {% include base_path %}
+
+## ----------------- ![1f431](http://oneThousand1000.github.io/images/1f320.png) 2025 -----------------
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2025' and post.first_author == 'yes' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2025' and post.first_author == 'no' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
 
 ## ----------------- ![1f431](http://oneThousand1000.github.io/images/1f431.png) 2024 -----------------
 
