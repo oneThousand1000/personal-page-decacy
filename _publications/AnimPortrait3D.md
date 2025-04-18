@@ -8,7 +8,7 @@ venue: "ACM SIGGRAPH 2025 (Conference Track)"
 paperurl: ' '
 citation: 'http://onethousand1000.github.io/files/bibtex/animportrait3d.html'
 code: 'https://github.com/oneThousand1000/AnimPortrait3D'
-video: ' '
+video: 'https://youtu.be/UgNcuUKAc7A'
 supplementary_materials: 'https://drive.google.com/file/d/1bt67uAtJyfh8ZAUw7fl7QvA0B5oyWZWe'
 project_page: 'https://onethousandwu.com/animportrait3d.github.io/'
 year: '2025'
@@ -47,16 +47,17 @@ The generation of high-quality, animatable 3D head avatars from text has enormou
 Recommended citation: 
 ```
 @article{AnimPortrait3D_sig25,
-author = {Wu, Yiqian and Prinzler, Malte and Jin, Xiaogang and Tang, Siyun},
-title = {Text-based Animatable 3D Avatars with Morphable Model Alignment},
-year = {2025},
-publisher = {Association for Computing Machinery},
-volume = { },
-number = { },
-url = { },
-doi = { },
-journal = {ACM Trans. Graph.},
-month = {Jul},
-articleno = { }
+      author = {Wu, Yiqian and Prinzler, Malte and Jin, Xiaogang and Tang, Siyu},
+      title = {Text-based Animatable 3D Avatars with Morphable Model Alignment},
+      year = {2025}, 
+      isbn = {9798400715402}, 
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3721238.3730680},
+      doi = {10.1145/3721238.3730680},
+      articleno = {},
+      numpages = {11},
+      location = {Vancouver, BC, Canada},
+      series = {SIGGRAPH '25}
 }
 ```
