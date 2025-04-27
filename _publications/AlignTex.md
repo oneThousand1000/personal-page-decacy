@@ -13,7 +13,7 @@ supplementary_materials: ''
 project_page: ''
 year: '2025'
 first_author: 'no'
-teaser: ''
+teaser: 'http://oneThousand1000.github.io/images/publications/aligntex.jpg'
 ---
 
 
